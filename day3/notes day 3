@@ -1,0 +1,9 @@
+link b5 will give boot strap in your html
+container takes entire page holds all the rows
+row flex and span the whole page
+cover fills the space avaible and crops it
+col 1 takes one space on the 12 6 half and so forth
+if you go over 12 push to next row 
+a tag action LINK - 
+img-fuild bigg as can be dont be bigger than column or as big as it can be
+cmd D will grab all content the same
